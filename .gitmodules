@@ -3,5 +3,5 @@
 	url = https://github.com/skiffos/skiffos.git
 	branch = release-2021.08
 [submodule "configs/env/flight_stack"]
-	path = configs/env/flight_stack
+	path = configs/flight_stack
 	url = https://github.com/aau-cns/flight_stack_env.git
