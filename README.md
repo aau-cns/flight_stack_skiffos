@@ -13,14 +13,14 @@ corresponding paper and consult the `LICENSE` file for a detailed explanation.
 
 ```latex
 @article{cns_flightstack22,
-   title        = {Flight Stack for Reproducible and Customizable Autonomy Applications in Research and Industry},
-   author       = {Scheiber, Martin and Fornasier, Alessandro and Jung, Roland and Böhm, Christoph and Dhakate, Rohit and Stewart, Christian and Steinbrener, Jan and Weiss, Stephan and Brommer, Christian},
-   journal      = {IEEE Robotics and Automation Letters},
-   volume       = {7},
-   number       = {4},
-   year         = {2022},
-   doi          = {10.1109/LRA.2022.3196117},
-   url          = {https://ieeexplore.ieee.org/document/9849131},
-   pages        = {11283--11290}
+    title        = {CNS Flight Stack for Reproducible, Customizable, and Fully Autonomous Applications},
+    author       = {Scheiber, Martin and Fornasier, Alessandro and Jung, Roland and Böhm, Christoph and Dhakate, Rohit and Stewart, Christian and Steinbrener, Jan and Weiss, Stephan and Brommer, Christian},
+    journal      = {IEEE Robotics and Automation Letters},
+    volume       = {7},
+    number       = {4},
+    year         = {2022},
+    doi          = {10.1109/LRA.2022.3196117},
+    url          = {https://ieeexplore.ieee.org/document/9849131},
+    pages        = {11283--11290}
 }
 ```
